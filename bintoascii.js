@@ -1,4 +1,3 @@
 b='0110011001110101011000110110101100100000011011010110100101100011011100100110111101100011011011110110010001100101'
-for(i=0;i<b.length;i+=8){substr=b.substr(i, 8)
-console.log(String.fromCharCode(parseInt(substr, 2)));                    
-}
+for(i=0;i<b.length;i+=8){substr=b.substr(i,8)
+console.log(String.fromCharCode(parseInt(substr,2)))}
