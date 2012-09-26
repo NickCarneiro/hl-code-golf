@@ -1,0 +1,4 @@
+# Hacker Lounge Code Golf
+
+Challenge 1: Write the smallest possible JavaScript snippet to convert this string to a meaningful ascii respresentation:
+0110011001110101011000110110101100100000011011010110100101100011011100100110111101100011011011110110010001100101
