@@ -1,5 +1,4 @@
 b='0110011001110101011000110110101100100000011011010110100101100011011100100110111101100011011011110110010001100101'
 o=''
 for(i=0;i<b.length;i+=8){substr=b.substr(i,8)
-o+=String.fromCharCode(parseInt(substr,2))}
-o
+o+=String.fromCharCode(parseInt(substr,2))}o
